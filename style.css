@@ -1,0 +1,11 @@
+button{
+    background-color:green;
+}
+div{ background-color : goldenrod;}
+input{
+    line-height:25px;
+    padding: 10px 20px;
+    border: 1px solid ;
+    border-radius:30px;
+    margin-bottom: 20px;
+}
